@@ -11,8 +11,8 @@ import time
 #from sentence_transformers import SentenceTransformer, util
 
 client = AzureOpenAI(
-    azure_endpoint="https://prd-auae-core-oai-apim-01.azure-api.net/prd-auae-core-openai-api-02/",
-    api_key="a1d43fe4425c41cdb5913f551bcd5b5d",
+    azure_endpoint="*******",
+    api_key="*******",
     api_version="2024-05-01-preview"
 )
 
